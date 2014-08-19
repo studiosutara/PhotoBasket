@@ -12,3 +12,6 @@ The application downloads images using Picasa web APIs and populates them in a U
 The scrolling speed for the application is determined by the tilt angle of the device. 
 
 The tilt angle is determined using the Core Motion library.
+
+### License
+The code is provided under MIT license. Please refer to the LICENSE file for more info.
